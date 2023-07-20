@@ -1,0 +1,19 @@
+div.album-card {
+  height: 250px;
+  width: 200px;
+  cursor: pointer;
+}
+
+.album-cards {
+  gap: 20px;
+}
+
+.album-title-count {
+  background: rebeccapurple;
+  text-decoration: none;
+  color: white;
+  padding: 5px 8px;
+  border-radius: 50%;
+  margin-right: -12px;
+  margin-top: -12px;
+}
